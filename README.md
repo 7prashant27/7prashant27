@@ -4,7 +4,6 @@
 ## I'm a Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and videogames xD !
 
 ### Connect with me:
