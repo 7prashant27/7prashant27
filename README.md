@@ -3,7 +3,7 @@
 
 ## I'm a Web Developer!!
 
-- 🌱 With over 3+ years of experience in Frontend with a focus on user interfaces and a strong background in crafting engaging and responsive web experiences.
+- 🌱 Having over 3+ years of experience in Frontend with a focus on user interfaces and a strong background in crafting engaging and responsive web experiences.
 - ⚡ Fun fact: I love to play football and videogames xD !
 
 ### Connect with me:
